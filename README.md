@@ -3,8 +3,10 @@
 
 This project contains the sample code associated with the following blog posts at SilverBayTech.com:
 
-- Part 1
+- [Part 1 - http://www.silverbaytech.com/2014/05/19/iiometadata-tutorial-part-1-background/](http://www.silverbaytech.com/2014/05/19/iiometadata-tutorial-part-1-background/)
 - Part 2
+- Part 3
+- Part 4
 
 ## Notes on JAI ImageIO
 
